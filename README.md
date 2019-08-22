@@ -15,7 +15,7 @@ I calculated the probabilities of landing on squares in this Jupyter notebook.
 ### Main Conclusions
 1. Squares do not have the same probability of being landed on. 
 2. The squares most likely to be landed on are in descending order: 
-  a. Jail
-  b. The orange squares (Tennessee Avenue, New York Avenue, St. James Place)
-  c. The red squares (Illinois Avenue, Kentucky Avenue, Indiana Avenue)
-  d. The yellow squares (Atlantic Avenue, Ventnor Avenue, Marvin Gardens)
+  * Jail
+  * The orange squares (Tennessee Avenue, New York Avenue, St. James Place)
+  * The red squares (Illinois Avenue, Kentucky Avenue, Indiana Avenue)
+  * The yellow squares (Atlantic Avenue, Ventnor Avenue, Marvin Gardens)
